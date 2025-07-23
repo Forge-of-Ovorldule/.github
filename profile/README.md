@@ -28,3 +28,5 @@
 
 ⚠️ **Предупреждение:** хлеб опасен для голубей!
 
+<img width="1024" height="1024" alt="20250723_1658_Минималистичный логотип кузницы_remix_01k0vs4t4rffa9dkg36c0r2pdh(1)" src="https://github.com/user-attachments/assets/d54016a3-ccc7-4b79-9db1-1436e4af66ed" />
+<img width="1024" height="1024" alt="20250723_1651_Forge of Ovorldule Reveal_simple_compose_01k0vrrn76eg1bhjex902fesph(1)" src="https://github.com/user-attachments/assets/81c0f929-9a20-4657-b90b-4dcf2f492e89" />
