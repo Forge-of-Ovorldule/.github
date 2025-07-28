@@ -106,7 +106,7 @@
 
 > 💫 Особенность: Адаптивные задачи как закалка характера  
 > 🛠 Статус: В продакшене ![Статус](https://img.shields.io/badge/version-1.1.0-blue)  
-> 🔗 [Скачать в Rustore](https://apps.rustore.ru/app/com.fireforestsouls.levelupsoul)
+> 🔗 [Скачать в Rustore](https://www.rustore.ru/catalog/app/fireforestsoul.levelupsoul)
 
 ---
 
