@@ -1,8 +1,7 @@
-<!-- Минималистичный логотип -->
 <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/d54016a3-ccc7-4b79-9db1-1436e4af66ed" 
-    alt="Forge of Ovorldule Minimalistic Logo" 
+  <img
+    src="https://github.com/user-attachments/assets/f1eeb9c7-c1fc-4d10-b890-c8f8354d4467" 
+    alt="Forge of Ovorldule Logo" 
     width="300"
   >
 </p>
@@ -14,15 +13,6 @@
 </div>
 
 ---
-
-<!-- Реалистичный логотип -->
-<div align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/81c0f929-9a20-4657-b90b-4dcf2f492e89" 
-    alt="Forge of Ovorldule Realistic Logo" 
-    width="400"
-  >
-</div>
 
 ### 🏆 Философия кузницы
 > *Каждый проект начинается как раскалённая заготовка в нашем творческом горниле. Мы сочетаем:*
